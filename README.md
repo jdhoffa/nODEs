@@ -1,7 +1,9 @@
 NODEs
 ==============================
 
-Pedagogical project, exploring neural ordinary differential equations.
+In this project, I will be analyzing and attempting to reproduce the results from the recently published Neural Ordinary Differential Equations paper (Chen et al. 2019). This is mostly for my own pedagogical purposes, however I will try to be as explanatory as possible so that anyone so inclined might follow along. 
+
+Beyond learning a new technique, I will be attempting to implement python coding best practices.
 
 Project Organization
 ------------
